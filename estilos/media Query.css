@@ -1,4 +1,29 @@
 @charset  "UTF-8";
 
 @media screen and (min-width: 768px) and (max-width:992px) {
+    .formulario{
+        width: 90vw;
+    }
+    .caixa-lembrar-esqueci{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 25px;
+        font-size: 20px;
+    }
+}
+@media screen and (min-width:992px) {
+    .formulario{
+        width: 500px;
+    }
+    .caixa-lembrar-esqueci{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 25px;
+        font-size: 17px;
+    }
+}
+
+
  
