@@ -16,9 +16,8 @@ body{
     align-items: center;
     min-height: 100vh;
     overflow: hidden;
-    background: linear-gradient(to bottom,#2a1b6b,#5c44a2);
     position: relative;
-    background: url(../imagens/pexels-picturemechaniq-1749303.jpg);
+    background: url(../imagens/pexels-picturemechaniq-1749303.jpg) no-repeat;
 
 }
 
@@ -63,10 +62,13 @@ body{
 
 .caixa-formulario i{
     position: absolute;
-    right: 20px;
-    font-size: 20px;
-    bottom:20%;
+    right: 15px;
+    font-size: 17px;
+    bottom: 13%;
 }
+
+
+    
 
 .caixa-lembrar-esqueci{
     display: flex;
