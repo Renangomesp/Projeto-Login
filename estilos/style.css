@@ -19,6 +19,7 @@ body{
     position: relative;
     background: url(../imagens/pexels-picturemechaniq-1749303.jpg) no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 .formulario{
