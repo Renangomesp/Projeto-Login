@@ -11,13 +11,14 @@
     font-weight: bold;
 }
 body{
-    display: flex;
+    display:flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
     overflow: hidden;
-    background: linear-gradient(to bottom,#2a1b6b,#5c44a2);
     position: relative;
+    background: url(../imagens/pexels-picturemechaniq-1749303.jpg)no-repeat;
+    background-size: cover;
     
     
     
